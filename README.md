@@ -10,6 +10,7 @@ Cette mission a été réalisée seul, le cahier des charges étant assez large 
 
 ## Installation
 
-* Créer une base de donnée MySQL (par défaut dans les configurations de la mission: mission1gsb).
+* Créer une base de donnée MySQL (par défaut: **mission1gsb**).
+* Importer le script **gsb2016.sql** dans celle-ci.
 * Importer le contenu de la mission sur votre serveur web (www/htdocs).
-* Éditer le fichier **bdd.php** dans **../configuration/** afin de configurer les identifiants de connexion à votre base de donnée.  
+* Éditer le fichier **bdd.php** dans **../configuration/** afin de configurer les identifiants de connexion à votre base de donnée.

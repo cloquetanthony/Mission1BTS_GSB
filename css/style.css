@@ -1,0 +1,17 @@
+.menu{
+	align-content: left;
+}
+
+.titre{
+	color: #77AADD;
+}
+
+.alignement{
+	margin-left: 250px;
+	margin-top: -200px;
+}
+
+.body{
+	background-color: #77AADD;
+	color: white;
+}
